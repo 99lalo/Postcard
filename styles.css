@@ -1,0 +1,65 @@
+.big{
+    height: 430px;
+    width: 550px;
+    background-color: white;
+    padding-left: 10px;
+    padding-right: 10px;
+    position: absolute;
+    left: 30%;
+    top: 30%;
+}
+.smol{
+    width: 75px;
+    height: 75px;
+    position: absolute;
+    left: 470px;
+    top: 25px;
+    
+}
+img{
+    width: inherit;
+    height: inherit;
+}
+body{
+    font-family: 'Arimo', sans-serif;
+    background-color: rgb(43, 43, 43);
+}
+.inpu{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    left: 300px;
+    top: 120px;
+    line-height: 2;
+}
+input{    
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    font-size: 20px;
+    font-family: 'Arimo', sans-serif;
+    border-width: 1px;
+}
+button{
+    padding: 5px;
+    font-family: 'Arimo', sans-serif;
+    background-color: rgb(187, 187, 187);
+    border-top: hidden;
+    border-left: hidden;
+    border-right: hidden;
+    border-width: 1px;
+    font-size: 20px;
+}
+h1{
+    padding-top: 25px;
+}
+p{
+    font-size: 20px;
+}
+#but{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    left: 200px;
+    top: 350px;
+}
